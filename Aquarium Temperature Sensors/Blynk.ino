@@ -11,7 +11,7 @@
 //Blynk Widget
 BlynkTimer timer;
 
-//Setting For Blynk
+//Setting For Blynk //
 char auth[] = "";
 char ssid[] = "";
 char pass[] = "";

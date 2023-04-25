@@ -83,7 +83,7 @@ void loop() {
   Serial.println(" cm");
 
 
-  
+  /// 
 int analogSensor = analogRead(smokeA0);
 int pwm = map(analogSensor,9,1023,0,100);
 String nilai = String(pwm);
